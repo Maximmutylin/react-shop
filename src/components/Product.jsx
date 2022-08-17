@@ -23,7 +23,7 @@ const Product = (props) => {
                     </div>
                     <div className='bottom-info'>
                         <div className="card-price">Ценa: {price}$</div>
-                        <button onClick={() => props.addToBasket({id, name, price})} className="waves-effect waves-light btn card-button">Купитьgi</button>
+                        <button onClick={() => props.addToBasket({id, name, price})} className="waves-effect waves-light btn card-button">Купить</button>
                     </div>
                 </div>
             </div>
