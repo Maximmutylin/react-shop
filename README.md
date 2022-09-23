@@ -1,5 +1,7 @@
-react-shop portfolio project
-(https://maximmutylin.github.io/react-shop/)
+# Учебный проект на React сервис по поиску фильмов
+### Во время разработки изучил основые концепции бибилиотеки познакомился с хуками и классовыми компонентами
+### Реализован поиск и фильтрация фильмов, полученных с API
+[Ссылка](https://maximmutylin.github.io/react-shop/)
 
 
 
